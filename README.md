@@ -11,6 +11,7 @@ total number of closed paths in all of its digits combined.
 
 ## Function Description
   closedPaths has the following parameter(s):
-    int number: an integer
+  - int number: an integer
+  
   Returns:
-    int: the number of closed paths in number
+  - int: the number of closed paths in number
